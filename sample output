@@ -1,0 +1,29 @@
+Expense Tracker
+1. Add Expense
+2. View Expenses
+3. Delete Expense
+4. Exit
+Choose an option: 1
+Enter expense category (e.g., Food, Travel, Entertainment): Food
+Enter the amount: $50
+
+Expense added successfully!
+
+Expense Tracker
+1. Add Expense
+2. View Expenses
+3. Delete Expense
+4. Exit
+Choose an option: 2
+
+--- Your Expenses ---
+1. Category: Food, Amount: $50.0
+
+Expense Tracker
+1. Add Expense
+2. View Expenses
+3. Delete Expense
+4. Exit
+Choose an option: 3
+Enter the number of the expense to delete: 1
+Expense deleted successfully.
