@@ -1,0 +1,13 @@
+Features:
+Add Expense: Adds a new expense by entering the category (e.g., Food, Entertainment) and the amount.
+
+View Expenses: Displays all the expenses with their category and amount.
+
+Delete Expense: Allows the user to delete an expense by selecting its number from the list.
+
+How it works:
+The program stores the expenses in an ArrayList<Expense>.
+
+Each expense is represented by the Expense class, which has two fields: category and amount.
+
+The ExpenseTracker class handles user input and provides a simple console-based interface for interaction.
